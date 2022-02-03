@@ -13,9 +13,9 @@ kongom2@gmail.com
 <br/>
 <br/>
 
-# **TIL**
+# **Learn**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kongom2&repo=kongom2)](https://github.com/kongom2/kongom2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kongom2&repo=learn)](https://github.com/kongom2/learn)
 
 <br/>
 <br/>

@@ -14,7 +14,10 @@
 
 # **kongom2log(Learn, Tech)**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kongom2&repo=kongom2)](https://github.com/kongom2/kongom2/tree/main/learn)
+| 구분                                                        | 설명               |
+| ----------------------------------------------------------- | ------------------ |
+| [Learn](https://github.com/kongom2/kongom2/tree/main/learn) | 하루를 정리하는 글 |
+| [Tech](https://github.com/kongom2/kongom2/tree/main/tech)   | 배운 내용을 기록   |
 
 <br/>
 <br/>
@@ -33,4 +36,4 @@
 
 # **Languages**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongom2&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongom2&layout=compact&theme=dark)

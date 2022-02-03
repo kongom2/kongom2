@@ -8,7 +8,7 @@
 
 글은 최대한 간결하면서 의미가 잘 전달 될 수 있도록 있도록 작성 할 계획이다.
 
-[Learn](https://github.com/kongom2/learn) 에서 하루를 정리하는 글을 적고<br/>
+[Learn](https://github.com/kongom2/kongom2/tree/main/learn) 에서 하루를 정리하는 글을 적고<br/>
 [Tech](https://github.com/kongom2/tech) 에서 배운 내용을 적을 수 있도록 카테고리를 나눴다.
 
 잘 활용하고 기록을 남겨보자.

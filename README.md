@@ -7,12 +7,14 @@
 - 재사용성 높고 중복을 최소화 할 수 있는 코드에 관심을 갖고 개발하고 있습니다.
 - 합리적을 판단할 수 있도록 가능한 많은 이야기를 듣고 정리하여 결과물을 만드는 것을 좋아합니다.
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
 <br/>
 <br/>
 
 # **kongom2log(Learn, Tech)**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kongom2&repo=kongom2)](https://github.com/kongom2/learn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kongom2&repo=kongom2)](https://github.com/kongom2/kongom2/tree/main/learn)
 
 <br/>
 <br/>

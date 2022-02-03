@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=kongom2&fontSize=70&fontAlign=76&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=200&section=header&text=kongom2&fontSize=70&fontAlign=76&fontColor=fff)
 
+<div style="display: flex">
 <div style="width: 400px">
 
 - 재사용성 높고 중복을 최소화 할 수 있는 코드에 관심을 갖고 개발하고 있습니다.
@@ -12,6 +13,7 @@
 010-2557-4892<br/>
 kongom2@gmail.com
 
+</div>
 </div>
 <br/>
 <br/>

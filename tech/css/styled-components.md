@@ -1,6 +1,6 @@
 # **styled-components**
 
-[styled-components](https://styled-components.com/docs/basics#installation)는 [React](https://ko.reactjs.org/)를 주요 대상으로한 라이브러리입니다.
+[styled-components](https://styled-components.com/docs/basics#installation)는 [React](https://github.com/kongom2/kongom2/tree/main/tech/react)를 주요 대상으로한 라이브러리입니다.
 
 기존 [CSS](https://github.com/kongom2/kongom2/tree/main/tech/css)의 스타일링은 컴포넌트의 양이 방대해질수록, CSS파일 또한 부피가 커지고, 엄청나게 복잡해지기 시작합니다.
 
@@ -20,3 +20,9 @@ npm install --save styled-components
 # with yarn
 yarn add styled-components
 ```
+
+<br/>
+<br/>
+
+참고자료
+[O-h-y-o님 Github](https://github.com/kongom2/TECH/blob/master/info/styled-components%20vs%20css.md)

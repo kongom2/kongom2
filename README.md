@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-# **Learn**
+# **kongom2log(Learn, Tech)**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kongom2&repo=learn)](https://github.com/kongom2/learn)
 

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=200&section=header&text=kongom2&fontSize=70&fontAlign=76&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=auto&height=200&section=header&text=kongom2&fontSize=70&fontAlign=20&fontColor=fff)
 
 <div style="display: flex">
 <div style="width: 400px">

@@ -85,7 +85,7 @@ MPA ( Multi Page Application )를 구성하기에는 복잡하고, SPA에서는 
 
 > 기술 더 알아보기
 
-[Library]() |
+[Library](../cs/Library.md) |
 
 <!-- [Framework]() |
 [Virtual DOM]() |

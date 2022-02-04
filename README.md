@@ -14,10 +14,10 @@
 
 # **kongom2log(Learn, Tech)**
 
-|                                                         | 설명               |
-| ----------------------------------------------------------- | ------------------ |
+|                                                             | 설명               |
+| :---------------------------------------------------------: | ------------------ |
 | [Learn](https://github.com/kongom2/kongom2/tree/main/learn) | 하루를 정리하는 글 |
-| [Tech](https://github.com/kongom2/kongom2/tree/main/tech)   | 배운 내용을 기록   |
+|  [Tech](https://github.com/kongom2/kongom2/tree/main/tech)  | 배운 내용을 기록   |
 
 <br/>
 <br/>

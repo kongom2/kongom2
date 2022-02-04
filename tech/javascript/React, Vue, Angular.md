@@ -1,6 +1,6 @@
 # **React, Vue, Angular**
 
-> Frontend에서 View를 만드는 목적으로 만들어진 Javascript 도구입니다.
+> Frontend에서 View를 만드는 목적으로 만들어진 Javascript 도구
 
 <br/>
 
@@ -66,7 +66,7 @@ Single File Componet는 .vue 파일에 HTML과 CSS 그리고 Script까지 하나
 
 ---
 
-라우팅, 상태관리, 폼 유효성 등 필요한 도구를 모아놓은 All In One 프레임워크인 것이 큰 장점입니다. 그렇기 때문인지 React와 Vue.js와 비교했을 때 가장 배울 것이 많고 어려운 편입니다.
+라우팅, 상태관리, 폼 유효성 등 필요한 도구를 모아놓은 All In One Framework인 것이 큰 장점입니다. 그렇기 때문인지 React와 Vue.js와 비교했을 때 가장 배울 것이 많고 어려운 편입니다.
 
 가볍고 빠르게 작업을 해야하는 프로젝트 보다는 큰 프로젝트에 사용하기 적합합니다.
 
@@ -74,8 +74,29 @@ TypeScript를 기반으로 하기 때문에 엄격하지만 그만큼 직관적�
 
 웹사이트가 빠르고 효율적으로 렌더링 되게 설계되어 있습니다.
 
-MPA (Multi Page Application)를 구성하기에는 복잡하고, SPA에서는 매우 빠르게 작동합니다.
+MPA ( Multi Page Application )를 구성하기에는 복잡하고, SPA에서는 매우 빠르게 작동합니다.
 
 애초에 구글이 SPA를 위해 만든 것이라고 한다.
 
 ---
+
+<br/>
+<br/>
+
+> 기술 더 알아보기
+
+[Library]() |
+
+<!-- [Framework]() |
+[Virtual DOM]() |
+[SSR, Server Side Rendering]() |
+[CSR, Client Side Rendering]() |
+[SPA, Single Page Application]() |
+[MPA, Multi Page Application]() |
+[JSX, Javascript XML]() |
+[Next.js]() |
+[Nuxt.js]() |
+[Component]() |
+[TypeScript]() |
+[React Native]() |
+[SEO, Search Engine Optimization]() | -->

@@ -4,7 +4,7 @@
 
 문서를 간결하게 정의할 수 있는 문법
 
-- [Emphasis 강조](https://github.com/kongom2/kongom2/blob/main/tech/Markdown.md#emphasis-%EA%B0%95%EC%A1%B0)
+- [Emphasis 강조](./Markdown.md#emphasis-%EA%B0%95%EC%A1%B0)
 - [Horizontal Rule 수평규칙](https://github.com/kongom2/kongom2/blob/main/tech/Markdown.md#horizontal-rule-%EC%88%98%ED%8F%89%EA%B7%9C%EC%B9%99)
 
 <br/>

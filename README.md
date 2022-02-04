@@ -18,6 +18,7 @@
 | :---------------------------------------------------------: | ------------------ |
 | [Learn](https://github.com/kongom2/kongom2/tree/main/learn) | 하루를 정리하는 글 |
 |  [Tech](https://github.com/kongom2/kongom2/tree/main/tech)  | 배운 내용을 기록   |
+|  [Tool](https://github.com/kongom2/kongom2/tree/main/tool)  | 유용한 툴 정보   |
 
 <br/>
 <br/>

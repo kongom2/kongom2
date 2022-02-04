@@ -6,7 +6,7 @@
 
 ## **React**
 
-- Library이며 Facebook 개발자 Jordan Walke가 처음 만듬, Facebook에서 지원하며 공통체의 의해 유지보수 된다.
+- Library이며 Facebook 개발자 Jordan Walke가 처음 만듬, Facebook에서 지원하며 공동체의 의해 유지보수 된다.
 - JSX문법 사용
 - Virtual DOM 지원
 - Next.js로 SSR ( Server Side Rendering )이 가능
@@ -86,9 +86,9 @@ MPA ( Multi Page Application )를 구성하기에는 복잡하고, SPA에서는 
 > 기술 더 알아보기
 
 [Library](../cs/Library.md) |
+[Framework](../cs/Framework.md) |
 
-<!-- [Framework]() |
-[Virtual DOM]() |
+<!-- [Virtual DOM]() |
 [SSR, Server Side Rendering]() |
 [CSR, Client Side Rendering]() |
 [SPA, Single Page Application]() |

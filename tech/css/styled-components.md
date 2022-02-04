@@ -24,5 +24,6 @@ yarn add styled-components
 <br/>
 <br/>
 
-참고자료
+> 참고자료
+
 [O-h-y-o님 Github](https://github.com/kongom2/TECH/blob/master/info/styled-components%20vs%20css.md)

@@ -2,7 +2,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkongom2&count_bg=%23333333&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=kongom2&fontSize=40&fontAlign=15&fontAlignY=50&fontColor=fff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=kongom2&fontSize=40&fontAlign=15&fontAlignY=20&fontColor=fff)
 
 - 재사용성 높고 중복을 최소화 할 수 있는 코드에 관심을 갖고 개발하고 있습니다.
 - 합리적을 판단할 수 있도록 가능한 많은 이야기를 듣고 정리하여 결과물을 만드는 것을 좋아합니다.

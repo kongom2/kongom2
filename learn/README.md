@@ -3,3 +3,8 @@
 [03일 Playground](./2022%EB%85%84/2%EC%9B%94/03%EC%9D%BC%20Playground.md)<br/>
 [04일 개념정리](./2022%EB%85%84/2%EC%9B%94/04%EC%9D%BC%20%EA%B0%9C%EB%85%90%20%EC%A0%95%EB%A6%AC.md)<br/>
 [05일 Github](./2022%EB%85%84/2%EC%9B%94/05%EC%9D%BC%20Github.md)<br/>
+[06일 Next.js](./2022%EB%85%84/2%EC%9B%94/06%EC%9D%BC%20Nextjs.md)<br/>
+
+- [06주차 프로젝트 끝, 이력서 시작](./2022%EB%85%84/2%EC%9B%94/05%EC%9D%BC%20Nextjs.md)<br/>
+
+<!-- [07일 Next.js](./2022%EB%85%84/2%EC%9B%94/05%EC%9D%BC%20Nextjs.md)<br/> -->

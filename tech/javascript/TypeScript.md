@@ -41,10 +41,16 @@
 - Version1은 JavaScript 기반
 - Version2는 TypeScript 기반 및 권장
 
+<br/>
+
 > 더 알아보기
 
 [공식문서](https://www.typescriptlang.org/) |
 [공식문서(한글)](https://typescript-kr.github.io/) |
+
+<!-- > 기술 더 알아보기 -->
+
+<!-- > 개발용어 더 알아보기 -->
 
 > 참고자료
 

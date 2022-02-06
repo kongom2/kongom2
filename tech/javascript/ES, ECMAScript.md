@@ -69,5 +69,4 @@ Object.fromEntries, flat, flatMap, Symbol.description, optional catch 등.
 <br/>
 <br/>
 
-> 참고자료
-> [위키백과](https://ko.wikipedia.org/wiki/ECMA%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)
+> Reference [위키백과](https://ko.wikipedia.org/wiki/ECMA%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8)

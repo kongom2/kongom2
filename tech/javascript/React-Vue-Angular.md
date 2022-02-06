@@ -83,10 +83,18 @@ MPA ( Multi Page Application )를 구성하기에는 복잡하고, SPA에서는 
 <br/>
 <br/>
 
+<!-- 추가정보 미완료 -->
+
+> 더 알아보기
+
 > 기술 더 알아보기
 
 [Library](../cs/Library.md) |
 [Framework](../cs/Framework.md) |
+
+> 개발용어 더 알아보기
+
+> 참고자료
 
 <!-- [Virtual DOM]() |
 [SSR, Server Side Rendering]() |

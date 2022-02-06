@@ -25,5 +25,25 @@ Architecture에 따라 Framework의 규칙은 달라집니다.
 
 ---
 
-참고자료
+<br/>
+
+<!-- 추가정보 미완료 -->
+
+<!-- > 더 알아보기 -->
+
+<!-- > 기술 더 알아보기 -->
+
+<!-- [Spring]() |  -->
+<!-- [Django]() |  -->
+<!-- [Angular]() |  -->
+<!-- [Laravel]() |  -->
+
+<!-- > 개발용어 더 알아보기 -->
+
+<!-- [Library]() |  -->
+<!-- [Framework]() |  -->
+<!-- [Architecture]() |  -->
+
+> 참고자료
+
 [개발자스럽다님 블로그](https://blog.gaerae.com/2016/11/what-is-library-and-framework-and-architecture-and-platform.html)

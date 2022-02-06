@@ -5,6 +5,6 @@
 [05일 Github](./2022%EB%85%84/2%EC%9B%94/05%EC%9D%BC%20Github.md)<br/>
 [06일 Next.js](./2022%EB%85%84/2%EC%9B%94/06%EC%9D%BC%20Nextjs.md)<br/>
 
-- [06주차 프로젝트 끝, 이력서 시작](./2022%EB%85%84/2%EC%9B%94/05%EC%9D%BC%20Nextjs.md)<br/>
+- [06주차 프로젝트 끝, 이력서 시작](./2022%EB%85%84/06%EC%A3%BC%EC%B0%A8%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%81%9D,%20%EC%9D%B4%EB%A0%A5%EC%84%9C%20%EC%8B%9C%EC%9E%91.md)<br/>
 
 <!-- [07일 Next.js](./2022%EB%85%84/2%EC%9B%94/05%EC%9D%BC%20Nextjs.md)<br/> -->

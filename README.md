@@ -16,6 +16,7 @@
 
 |                                                             | 설명               |
 | :---------------------------------------------------------: | ------------------ |
+|  [Algorithm](https://github.com/kongom2/kongom2/tree/main/algorithm)  | 알고리즘   |
 | [Learn](https://github.com/kongom2/kongom2/tree/main/learn) | 하루를 정리하는 글 |
 |  [Tech](https://github.com/kongom2/kongom2/tree/main/tech)  | 기술 지식 기록   |
 |  [Tool](https://github.com/kongom2/kongom2/tree/main/tool)  | 유용한 툴 정보   |

@@ -18,3 +18,7 @@
 # **Markup Language**
 
 [Markdown 마크다운](./markupLang/Markdown.md)<br/>
+
+# **Design Pattern**
+
+[Atomic Design Pattern 아토믹 디자인 패턴](./designPattern/Atomic%20Design%20Pattern.md)<br/>

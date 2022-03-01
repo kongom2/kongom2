@@ -17,7 +17,7 @@
 [17일 React Hook](https://github.com/kongom2/kongom2/blob/22bf7e9b178849b6c47c96765e01d7069391e9b7/learn/2022%EB%85%84/2%EC%9B%94/17%EC%9D%BC%20React%20Hook.md)<br/>
 [18일 study](https://github.com/kongom2/kongom2/blob/c542f4978126d07fbc4b459f13fd7db5e0fc9e27/learn/2022%EB%85%84/2%EC%9B%94/18%EC%9D%BC%20study.md)<br/>
 [19일 PostgreSQL](https://github.com/kongom2/kongom2/blob/c542f4978126d07fbc4b459f13fd7db5e0fc9e27/learn/2022%EB%85%84/2%EC%9B%94/19%EC%9D%BC%20PostgreSQL.md)<br/>
-[20일 개발이 좋은 이유 또는 개발 관심분야](https://github.com/kongom2/kongom2/blob/8b2a67a7c44e9e54d62bf9a0b92ebba430f1a8e4/learn/2022%EB%85%84/2%EC%9B%94/20%EC%9D%BC%20%EA%B0%9C%EB%B0%9C%EC%9D%B4%20%EC%A2%8B%EC%9D%80%20%EC%9D%B4%EC%9C%A0%20%EB%98%90%EB%8A%94%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EC%8B%AC%EB%B6%84%EC%95%BC.md)<br/>
+[20일 개발이 좋은 이유 또는 개발 관심분야](https://github.com/kongom2/kongom2/blob/bf8edc168a8cf8e3ea65e062c8cc01fda5144899/learn/2022%EB%85%84/2%EC%9B%94/20%EC%9D%BC%20%EA%B0%9C%EB%B0%9C%EC%9D%B4%20%EC%A2%8B%EC%9D%80%20%EC%9D%B4%EC%9C%A0%20%EB%98%90%EB%8A%94%20%EA%B0%9C%EB%B0%9C%20%EA%B4%80%EC%8B%AC%EB%B6%84%EC%95%BC.md)<br/>
 [21일 study](https://github.com/kongom2/kongom2/blob/e2e512c4cdd88b12767dfc2a39dfc4cb64eb9cae/learn/2022%EB%85%84/2%EC%9B%94/21%EC%9D%BC%20study.md)<br/>
 [22일 study](https://github.com/kongom2/kongom2/blob/aaa305fcd9549216039c9382f9652aad1a53fdac/learn/2022%EB%85%84/2%EC%9B%94/22%EC%9D%BC%20study.md)<br/>
 [23일 study](https://github.com/kongom2/kongom2/blob/d99a37531e82f566bcf74de58538dfb1467c8262/learn/2022%EB%85%84/2%EC%9B%94/23%EC%9D%BC%20study.md)<br/>

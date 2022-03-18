@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-# **kongom2log(Algorithm, Learn, Tech, Tool)**
+# **kongom2log(Algorithm, Learn, Tech, Tool, )**
 
 |                                                             | 설명               |
 | :---------------------------------------------------------: | ------------------ |

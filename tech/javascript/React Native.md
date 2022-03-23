@@ -75,3 +75,81 @@ npx react-native init FoodDeliveryApp --template react-native-template-typescrip
 ls
 cd FoodDeliveryApp
 ```
+
+# index.js
+
+프로젝트의 시작점
+
+### 아이폰 베이스로 작업 후 안드로이드로 보면 봐줄만함
+
+아이폰 안드로이드 최적화 작업이 필요함
+
+### <Text><View>
+
+텍스트가 포함되어 있으면 반드시 <Text를 사용해야함>
+
+### SafeAreaView
+
+노치 부분 죽은 공간을 채워 줌
+
+최상단에 사용하는 것이 좋다.
+
+### StatusBar
+
+상태바 디자인 가능
+
+### ScrollView ⇒ FlatList
+
+스크롤시 사용, 그러나 컨텐츠 양이 많아질 때 성능 저하 이슈가 있음 그 땐 FlatList 사용
+
+### 하나의 파일에 2개 이상의 컨포넌트 넣는 것
+
+비추
+
+# 메트로 서버
+
+### 새로고침
+
+To reload the app press "r"
+
+### 개발자 메뉴
+
+To open developer menu press "d"
+
+### Flipper
+
+디버깅 툴
+
+```jsx
+flipper-plugin-async-storage
+```
+
+# 앱이름 변경
+
+android > app > src > main > res > values > strings.xml app.json의 displayName
+
+```jsx
+<resources>
+    <string name="app_name">FoodDeliveryApp</string>
+</resources>
+```
+
+ios > FoodDeliveryApp > Info.plist의 CF BundleDisplayName
+
+# 단축키
+
+[https://developer.android.com/studio/intro/keyboard-shortcuts?hl=ko](https://developer.android.com/studio/intro/keyboard-shortcuts?hl=ko)
+
+# 리액트 네이게이션 사용
+
+```jsx
+npm i @react-navigation/native @react-navigation/native-stack
+```
+
+# 리액트 네이티브 옵션
+
+[https://reactnavigation.org/docs/screen-options/](https://reactnavigation.org/docs/screen-options/)
+
+# Type Script?
+
+매개변수, 리턴값, 변수 에 타입을 붙이는 것
